@@ -5,6 +5,10 @@
 *.cs     diff=csharp
 
 # Standard to msysgit
+*.mat -crlf -diff -merge
+*.p -crlf -diff -merge
+*.slx -crlf -diff -merge
+*.mdl -crlf -diff -merge
 *.doc	 diff=astextplain
 *.DOC	 diff=astextplain
 *.docx diff=astextplain
