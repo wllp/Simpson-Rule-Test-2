@@ -1,4 +1,5 @@
 %Approxi intergartion code by Will Platt
+%This was also the first code I messaround on github with tring to figure out how to use it.
 clc
 clear
 sum = 0;
